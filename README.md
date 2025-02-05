@@ -1,5 +1,5 @@
 # ProjectJavaSMT3
-# Proyek Java & Python
+# Proyek Java & Python dari Mipoo
 
 Proyek ini terdiri dari berbagai aplikasi yang dibangun menggunakan Java dan Python. Beberapa fitur utama dari proyek ini mencakup pembuatan API, GUI, dan pengembangan berbagai library serta beberapa aplikasi berbasis Python seperti deteksi usia dan sistem kasir berbasis API.
 
